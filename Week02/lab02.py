@@ -11,7 +11,8 @@ playerChoice = int(playerChoice)
 
 # Error Handling
 # Checking if the player's choice is valid within the range of 1 to 3
-# if not valid print out error message
+# if not valid print out error message3
+
 if playerChoice < 1 or playerChoice > 3:
     print("Error: Choice must be between 1 and 3.")
 else:
