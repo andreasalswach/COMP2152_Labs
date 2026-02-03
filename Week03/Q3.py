@@ -20,3 +20,5 @@ word_tuple = tuple(word)
 print(f"Tuple from string: {word_tuple}")
 
 # printing each character from the tuple using a for loop
+for char in word_tuple:
+    print(char)

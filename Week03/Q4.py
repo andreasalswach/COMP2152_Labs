@@ -9,6 +9,8 @@ mondayClass.add("Grace")
 
 print("Monday class attendance: ", mondayClass)
 print("Wendesday class attendance: ", wednesdayClass)
+
+# combining sets
 bothClasses = mondayClass & wednesdayClass
 print("Attended both classes: ", bothClasses)
 
@@ -18,7 +20,7 @@ allStudents = mondayClass | wednesdayClass
 print("Attended either class: ", allStudents)
 
 # using difference (-)
-onlyMonday =  mondayClass - bothClasses
+onlyMonday =  mondayClass - wednesdayClass
 print("Only Monday: ", onlyMonday)
 
 # using aymmetric difference (^)
