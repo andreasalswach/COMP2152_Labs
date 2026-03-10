@@ -1,0 +1,5 @@
+2026-02-17 13:48:28,nslookup,instagram.com,Not found,Failed
+2026-02-17 13:48:43,ping,google.com,N/A,Failed
+2026-02-17 13:49:03,arp,local,0 devices,Captured
+2026-02-17 13:49:25,ifconfig,en0,Error,Failed
+2026-02-17 13:56:30,ping,google.com,N/A,Failed
