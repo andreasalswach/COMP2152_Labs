@@ -1,2 +1,0 @@
-First ping test - Success
-Second ping test - Failed
